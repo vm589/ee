@@ -41,7 +41,7 @@
         </div>
         <div>
             <img scr='images/sorkin75.jpg" alt="Sorkin">
-            </p>div>
+        </div>
     </main>
     <footer>
         <p> 2024, Professor</p>
